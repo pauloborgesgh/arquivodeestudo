@@ -97,7 +97,7 @@ def quiz():
         {
             "question": "  Questão 9/10 - Redes de Computadores Para a implementação da confiabilidade de uma rede, ou seja, para garantir que a conectividade entre os clientes e os servidores, no acesso às aplicações, seja garantido, com a qualidade necessária e no momento em que o usuário necessitar acessar estas aplicações, temos alguns requisitos que devem ser atendidos por esta rede. Assim, as quatro características básicas de uma rede, para que ela seja considera uma rede confiável, são a escalabilidade, a tolerância a falhas, a Qualidade de serviço (QoS) e a segurança.\nAssim, para atender ao requisito de escalabilidade, avalie as características descritas a seguir, e identifique quais estão efetivamente relacionadas à escalabilidade.\nI. Um equipamento de rede, com apenas duas portas de conexão, tal como um roteador residencial, não atenderá o requisito de escalabilidade, pois não terá redundância de conectividade.\nII. O equipamento utilizado para a conexão de uma rede residencial à Internet não é escalável, pois o Firewall instalado no roteador não permite a configuração das regras de bloqueio de tráfego.\nIII. Um equipamento utilizado em uma rede residencial, para atender alguns clientes, poderá não ser adequado para ser utilizado em uma rede corporativa, para atender a conexão de muitos usuários, ou seja, não atenderia o requisito de escalabilidade.\nIV. O protocolo da rede wireless, conhecido como padrão WiFi, é dito escalável, pois pode ser utilizado tanto em uma rede residencial como em uma rede corporativa.\n",
             "options": [
-                "\nA    I e II"
+                "\nA    I e II."
                " \nB    II e III."
                 "\nC    III e IV."
                 "\nD    I e IV."
