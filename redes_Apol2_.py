@@ -90,7 +90,7 @@ def quiz():
             "question": "Questão 9/10 - Redes de Computadores Como protocolos da camada de transporte, no modelo TCP/IP, temos os procolos TCP e UDP. E uma das diferenças entre os protocolos TCP e UDP está associada ao estabelecimento da sessão, que é implementada apenas pelo protocolo TCP. Assim, antes do início da transmissão dos dados, o protocolo TCP irá estabelecer uma sessão entre o cliente e o servidor.\nE para o estabelecimento de uma sessão TCP, temos três etapas distintas, envolvendo a troca de mensagens entre os dispositivos. Assim, considerando este processo de inicialização de sessão do protocolo TCP, conforme apresentado no texto da rota, avalie as afirmações a seguir.\nI. O processo de inicia com o envio de uma requisição, pelo cliente, para o estabelecimento de uma nova sessão, com destino ao servidor.\nII. Após o recebimento de uma solicitação de uma nova sessão, o servidor responde ao cliente, também solicitando a abertura de uma sessão, do tipo servidor-cliente.\nIII. Após a troca das duas mensagens iniciais, a sessão já estará estabelecida, não sendo necessária nenhuma mensagem adicional.\nIV. Quando o cliente identificar que não existem mais dados a serem recebidos, ele encerra a sessão, não sendo necessário enviar nenhuma mensagem adicional ao servidor.\n",
             "options": [
                 "\nA    I e II."
-                "\nB    II e III"
+                "\nB    II e III."
                 "\nC    III e IV."
                 "\nD    I, II e IV."
                 "\nE    I, III e IV."
