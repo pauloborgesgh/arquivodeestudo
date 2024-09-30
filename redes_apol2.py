@@ -13,7 +13,7 @@ questoes = [
         "correta": "B"
     },
     {
-        "enunciado": "Questão 2/10 - Redes de Computadores",
+        "question": "Questão 2/10 - Redes de Computadores",
         "texto": """Os dispositivos de segurança deverão garantir a proteção tanto para as possíveis ameaças que possam existir nas redes LAN quanto em relação às ameaças existentes na rede externa...
                     A respeito dessas asserções, assinale a opção correta.""",
         "opcoes": [
