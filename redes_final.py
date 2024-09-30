@@ -64,7 +64,7 @@ def quiz():
                 '\nD	I e IV.'
 
             ],
-            "\nanswer": "D"
+            "answer": "D"
         },{
             "question": "Questão 7/12 - Redes de Computadores\nBaseado no modelo TCP/IP, o IETF definiu uma série de protocolos, que operam nas camadas de Aplicação, Transporte e Internet, porém, não definiu nenhum protocolo específico para a camada de Acesso à rede. E um destes protocolos é o TCP, que inclusive está citado na designação do próprio modelo.\nConsiderando a operação do protocolo TCP, empregado para o estabelecimento de sessões entre os dispositivos conectados na rede de dados, e com base nas informações apresentadas no texto da rota, avalie as asserções a seguir:\n\nI. O protocolo TCP/IP gerencia as conversas individuais, sendo responsável por garantir a entrega confiável das informações.PORQUE\n\nII. O protocolo TCP/IP opera na camada de Rede, gerenciando o controle de fluxo entre os dispositivos finais.A respeito dessas asserções, assinale a opção correta.\n",
             "options": [
@@ -267,7 +267,7 @@ def quiz():
             print(option)
         answer = input("Escolha a alternativa correta: ").strip().upper()
         if answer == q["answer"]:
-            print("Você acertou!\n")
+            print("Resposta correta!\n")
             score += 10
         else:
             print(f"Resposta incorreta. A resposta correta é: {q['answer']}\n")
